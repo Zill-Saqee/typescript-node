@@ -1,6 +1,6 @@
 **Minimum Node Version: 16.5 or higher**
 
-Get started:
+Lets Get started:
 
 - create your own repo (for example on www.github.com)
 - change the origin to your own repo with `git remote set-url origin <remote_url>`
